@@ -10,8 +10,10 @@
 
 ## misc問題
 ### Beeeeeeeeeer
-
+難読化シェル芸(大分イカレテイル)
+[SECCON 2019 quals Write-up (Beeeeeeeeeer, SECCON\_multiplicater, web\_search) - Ryoto Saito's Blog](https://www.ryotosaito.com/blog/?p=331)
 
 ### SECCON_multiplicater
 
+[SECCON 2019 quals Write-up (Beeeeeeeeeer, SECCON\_multiplicater, web\_search) - Ryoto Saito's Blog](https://www.ryotosaito.com/blog/?p=331)
 
